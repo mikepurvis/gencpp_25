@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>test</name>
+  <version>0.0.0</version>
+  <description>.</description>
+
+  <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>diagnostic_msgs</depend>
+</package>
